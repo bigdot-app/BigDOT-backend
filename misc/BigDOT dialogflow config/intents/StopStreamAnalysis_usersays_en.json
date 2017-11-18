@@ -1,0 +1,132 @@
+[
+  {
+    "id": "f620c788-711c-4cde-b66b-fe9640c3b9d0",
+    "data": [
+      {
+        "text": "stop analyzing the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "lamp",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db42ada2-0a70-4fd8-8910-0849368bd4d4",
+    "data": [
+      {
+        "text": "stop examining the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "markers and weed",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc2c326c-21b1-4820-b927-9d12327edc41",
+    "data": [
+      {
+        "text": "stop analysis on the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "angry carrots",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1efb9423-18af-488e-b56f-9a8f7ea89e65",
+    "data": [
+      {
+        "text": "stop inspecting the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "what in the world",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e59f33c-d3b5-4269-a7d0-6522b4b465fb",
+    "data": [
+      {
+        "text": "stop data analysis on the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "smurfs movie",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

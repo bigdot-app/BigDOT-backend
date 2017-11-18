@@ -1,0 +1,44 @@
+{
+  "id": "463d7017-7a4d-4cbb-b2fe-78e6096ac5cd",
+  "name": "ShowBarGraphRealtime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show_bar_graph_realtime",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b9ca6ec-b882-4a31-abd0-619207e64aad",
+          "required": true,
+          "dataType": "@DataGroups",
+          "name": "data-group",
+          "value": "$data-group",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which sensor group?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Showing a bar graph of the $data-group sensor(s) in real-time."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510453518984,
+  "fallbackIntent": false,
+  "events": []
+}

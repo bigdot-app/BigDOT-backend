@@ -1,0 +1,30 @@
+[
+  {
+    "value": "accelerometer",
+    "synonyms": [
+      "accelerometer",
+      "accel"
+    ]
+  },
+  {
+    "value": "miscellaneous",
+    "synonyms": [
+      "miscellaneous",
+      "misc"
+    ]
+  },
+  {
+    "value": "gyroscope",
+    "synonyms": [
+      "gyroscope",
+      "gyro"
+    ]
+  },
+  {
+    "value": "magnetometer",
+    "synonyms": [
+      "magnetometer",
+      "mag"
+    ]
+  }
+]

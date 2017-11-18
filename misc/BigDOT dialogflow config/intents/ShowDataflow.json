@@ -1,0 +1,32 @@
+{
+  "id": "2be3d0d2-96c0-4680-be70-9d64725cf988",
+  "name": "ShowDataflow",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show_dataflow",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Showing you the data flow diagram.",
+            "Showing you the data flow chart."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510804288,
+  "fallbackIntent": false,
+  "events": []
+}

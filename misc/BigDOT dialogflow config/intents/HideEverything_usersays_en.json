@@ -1,0 +1,57 @@
+[
+  {
+    "id": "33fe53eb-78bc-4638-83f9-fb22eb3e0737",
+    "data": [
+      {
+        "text": "hide the current chart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6149e56f-33de-46c5-970b-577afbd86c3b",
+    "data": [
+      {
+        "text": "hide the data flow diagram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1415bf8c-7af9-4859-827d-b98e4e233dcc",
+    "data": [
+      {
+        "text": "hide the graph",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e9fd962-19b8-4bcd-9c53-2cb2fa187393",
+    "data": [
+      {
+        "text": "hide the current diagram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f44c65a-89cc-46ac-b59c-b8899592df8f",
+    "data": [
+      {
+        "text": "hide everything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

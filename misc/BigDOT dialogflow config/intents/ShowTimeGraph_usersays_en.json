@@ -1,0 +1,191 @@
+[
+  {
+    "id": "184061d0-327e-4176-870c-b5fe3ea2a5fb",
+    "data": [
+      {
+        "text": "make a timeline for the ",
+        "userDefined": false
+      },
+      {
+        "text": "gyroscope",
+        "alias": "sensor-type",
+        "meta": "@SensorType",
+        "userDefined": false
+      },
+      {
+        "text": " data over ",
+        "userDefined": false
+      },
+      {
+        "text": "30 seconds",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1fd8873-c6e8-4938-8f7a-aa066397f8eb",
+    "data": [
+      {
+        "text": "show a time graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "accelerometer",
+        "alias": "sensor-type",
+        "meta": "@SensorType",
+        "userDefined": false
+      },
+      {
+        "text": " sensor over ",
+        "userDefined": false
+      },
+      {
+        "text": "10 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "214103db-7243-4197-bf96-0396c0604c38",
+    "data": [
+      {
+        "text": "create a time graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "barometer",
+        "alias": "sensor-type",
+        "meta": "@SensorType",
+        "userDefined": false
+      },
+      {
+        "text": " data over ",
+        "userDefined": false
+      },
+      {
+        "text": "10 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa2d5167-3573-4597-aec5-1bf0222da4c6",
+    "data": [
+      {
+        "text": "visualize a time graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "magnetometer",
+        "alias": "sensor-type",
+        "meta": "@SensorType",
+        "userDefined": false
+      },
+      {
+        "text": " over ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85f25cab-a766-4c10-a329-d7ee1493f446",
+    "data": [
+      {
+        "text": "construct a timeline for the ",
+        "userDefined": false
+      },
+      {
+        "text": "humidity",
+        "alias": "sensor-type",
+        "meta": "@SensorType",
+        "userDefined": false
+      },
+      {
+        "text": " sensor over ",
+        "userDefined": false
+      },
+      {
+        "text": "30 seconds",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "daa2b4f8-3bb8-4e77-ac33-f88b92873bff",
+    "data": [
+      {
+        "text": "show a time graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "accelerometer",
+        "alias": "sensor-type",
+        "meta": "@SensorType",
+        "userDefined": false
+      },
+      {
+        "text": " sensor over ",
+        "userDefined": false
+      },
+      {
+        "text": "30 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1548ff7a-aa18-43d8-a9eb-d3124e5c6d77",
+    "data": [
+      {
+        "text": "show a time graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "alias": "sensor-type",
+        "meta": "@SensorType",
+        "userDefined": false
+      },
+      {
+        "text": " sensor over ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

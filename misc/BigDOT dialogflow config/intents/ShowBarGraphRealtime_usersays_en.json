@@ -1,0 +1,187 @@
+[
+  {
+    "id": "2e1f461b-a142-491f-81be-15f565601114",
+    "data": [
+      {
+        "text": "show me a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "miscellaneous",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      },
+      {
+        "text": " sensors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72350154-86ca-4bca-9d8f-6a4e184948e6",
+    "data": [
+      {
+        "text": "show me a bar graph of the ",
+        "userDefined": false
+      },
+      {
+        "text": "miscellaneous",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      },
+      {
+        "text": " sensor data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c4a2217-a421-48fa-9567-55e7d6af48e4",
+    "data": [
+      {
+        "text": "create a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "accelerometer",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      },
+      {
+        "text": " data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96b30fb7-b0a5-40e2-8a41-acfa48a56840",
+    "data": [
+      {
+        "text": "show a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "miscellaneous",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      },
+      {
+        "text": " data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dee34f89-1303-4ed5-98f1-e20d2b677a2f",
+    "data": [
+      {
+        "text": "construct a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "magnetometer",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510453518
+  },
+  {
+    "id": "967efbd2-ee59-4ba3-b606-88b580b32d73",
+    "data": [
+      {
+        "text": "show me a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "accelerometer",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      },
+      {
+        "text": " sensor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510453518
+  },
+  {
+    "id": "3a490658-2583-4f27-bbee-d3b456938823",
+    "data": [
+      {
+        "text": "show a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "gyroscope",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      },
+      {
+        "text": " data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02c9d718-9604-4b05-9304-a61c77364629",
+    "data": [
+      {
+        "text": "show me a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "gyroscope",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510453518
+  },
+  {
+    "id": "4f58e159-b9b2-460b-a149-bc26f3778ef8",
+    "data": [
+      {
+        "text": "visualize a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "miscellaneous",
+        "alias": "data-group",
+        "meta": "@DataGroups",
+        "userDefined": false
+      },
+      {
+        "text": " sensors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510453518
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "id": "a209ef65-651f-4238-84e9-38473b9eb1d8",
+  "name": "ShowTimeGraph",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show_time_graph",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7fa145f1-67fb-448b-a613-6f7d5d47f6ca",
+          "required": true,
+          "dataType": "@SensorType",
+          "name": "sensor-type",
+          "value": "$sensor-type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which sensor did you want to visualize?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a4fe5bef-1cfc-4f04-9aeb-df9ab95225ad",
+          "required": true,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time duration?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Showing a time graph of the $sensor-type sensor(s) over $duration"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510453761852,
+  "fallbackIntent": false,
+  "events": []
+}

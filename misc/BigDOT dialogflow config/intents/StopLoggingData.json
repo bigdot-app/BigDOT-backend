@@ -1,0 +1,58 @@
+{
+  "id": "fbca6b7a-d994-4d01-b2c3-40f64ce75246",
+  "name": "StopLoggingData",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "stop_logging_data",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9504325b-f00d-41c3-a8d4-8c1d658dd7f5",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "dl-name",
+          "value": "$dl-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the name of the database or data stream?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "1f567753-33b1-4fc1-9642-e45fd417a94d",
+          "required": true,
+          "dataType": "@DataLoggingType",
+          "name": "dl-type",
+          "value": "$dl-type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want to stop logging the data from a database or a data stream?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510257143394,
+  "fallbackIntent": false,
+  "events": []
+}

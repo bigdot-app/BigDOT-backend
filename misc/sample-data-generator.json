@@ -1,0 +1,19 @@
+[
+  "{{repeat(120)}}",
+  {
+    "timestamp": "{{+new Date() - (120 - index()) * 2.5 * 1000}}",
+    "acc_x": "{{integer(-1024, 1024)}}",
+    "acc_y": "{{integer(-1024, 1024)}}",
+    "acc_z": "{{integer(-1024, 1024)}}",
+    "gyr_x": "{{integer(-1048576, 1048576)}}",
+    "gyr_y": "{{integer(-1048576, 1048576)}}",
+    "gyr_z": "{{integer(-1048576, 1048576)}}",
+    "mag_x": "{{integer(-10240, 10240)}}",
+    "mag_y": "{{integer(-10240, 10240)}}",
+    "mag_z": "{{integer(-10240, 10240)}}",
+    "humidity": "{{floating(0, 100, 2)}}",
+    "temperature": "{{floating(10, 40, 2)}}",
+    "pressure": "{{floating(0, 1050, 2)}}",
+    "proximity": "{{integer(20, 8190)}}"
+  }
+]

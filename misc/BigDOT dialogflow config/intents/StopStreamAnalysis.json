@@ -1,0 +1,44 @@
+{
+  "id": "b6e49df7-ab99-4e24-9106-ba9229ffbd79",
+  "name": "StopStreamAnalysis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "stop_stream_analysis",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01637a99-7a31-4592-9800-d18848a89ec6",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "stream-name",
+          "value": "$stream-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the name of the data stream?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It looks like the web server is down!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510821702,
+  "fallbackIntent": false,
+  "events": []
+}

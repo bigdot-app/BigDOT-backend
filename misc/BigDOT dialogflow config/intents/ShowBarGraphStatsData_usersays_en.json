@@ -1,0 +1,82 @@
+[
+  {
+    "id": "52fa3374-a405-45bb-8557-a81ccce3e3a5",
+    "data": [
+      {
+        "text": "show me a bar graph for the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " analysis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b4de2c5e-c7f1-49cd-a027-de34c1542646",
+    "data": [
+      {
+        "text": "construct bar graph for ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " analysis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fc7435e-8f5a-46a5-b34d-5da1df5824bf",
+    "data": [
+      {
+        "text": "visualize a bar graph from the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " analysis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85550433-5ebf-41a9-b274-89ed66c9259d",
+    "data": [
+      {
+        "text": "create a bar graph from the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " analysis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

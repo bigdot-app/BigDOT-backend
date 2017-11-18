@@ -1,0 +1,29 @@
+{
+  "id": "8a997bc5-15e1-4c96-a619-33d933d58e78",
+  "name": "HideEverything",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hide_everything",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hiding everything from view."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510475850795,
+  "fallbackIntent": false,
+  "events": []
+}

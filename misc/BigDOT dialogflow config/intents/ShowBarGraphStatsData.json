@@ -1,0 +1,29 @@
+{
+  "id": "4043d3b8-5675-4d8a-bf95-594e03218dd5",
+  "name": "ShowBarGraphStatsData",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "show_bar_graph_analysis_results",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510804027,
+  "fallbackIntent": false,
+  "events": []
+}

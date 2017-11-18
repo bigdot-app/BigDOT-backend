@@ -1,0 +1,164 @@
+[
+  {
+    "id": "6f02847a-c333-4352-8536-47538bd8f1a7",
+    "data": [
+      {
+        "text": "stop logging sensor data to the new ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "aliens are great",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1caf3dfa-53a9-4379-be07-d9defd6b54df",
+    "data": [
+      {
+        "text": "stop logging data to the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": false
+      },
+      {
+        "text": " titled ",
+        "userDefined": false
+      },
+      {
+        "text": "iron man",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1d91dce-c9d1-4c10-b2d3-57661fb0b421",
+    "data": [
+      {
+        "text": "stop logging data to the ",
+        "userDefined": false
+      },
+      {
+        "text": "database",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "buckets are cats",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9b69862-994d-4c66-97eb-f181e91263d1",
+    "data": [
+      {
+        "text": "stop logging data to the ",
+        "userDefined": false
+      },
+      {
+        "text": "database",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " instance called ",
+        "userDefined": false
+      },
+      {
+        "text": "pigs",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8f46072-fba7-4342-a92c-89dceb3534e4",
+    "data": [
+      {
+        "text": "stop logging sensor data to the ",
+        "userDefined": false
+      },
+      {
+        "text": "database",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " instance named ",
+        "userDefined": false
+      },
+      {
+        "text": "phones are the worst",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd19cbea-a9e2-4426-b8e8-e4595c0ae441",
+    "data": [
+      {
+        "text": "stop logging sensor data to the ",
+        "userDefined": false
+      },
+      {
+        "text": "database",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " titled ",
+        "userDefined": false
+      },
+      {
+        "text": "android is great",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "id": "b1f36b4d-aafb-47a0-98ba-03308e96bff2",
+  "name": "StartStreamAnalysis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "start_stream_analysis",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "55c7fb43-cf3e-403b-b98b-141b1e033e1c",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "stream-name",
+          "value": "$stream-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the name of the data stream?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "147bb33e-8cc5-4860-8c40-36f08b76e4d3",
+          "required": true,
+          "dataType": "@AnalysisType",
+          "name": "analysis-type",
+          "value": "$analysis-type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What features would you like to extract from the data stream?"
+            },
+            {
+              "lang": "en",
+              "value": "What would you like to analyze from the data stream?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "5bec62a0-8ddc-4bc8-b24a-8f1fda8d9d9c",
+          "required": true,
+          "dataType": "@SensorType",
+          "name": "sensor-fields",
+          "value": "$sensor-fields",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What sensors do you want to analyze?"
+            },
+            {
+              "lang": "en",
+              "value": "What sensors do you want to examine?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It looks like the web server is down!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510761883,
+  "fallbackIntent": false,
+  "events": []
+}

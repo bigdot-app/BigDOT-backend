@@ -1,0 +1,132 @@
+[
+  {
+    "id": "fedad971-03f9-4f24-bab4-a380f65f2fed",
+    "data": [
+      {
+        "text": "start data analysis on the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "enemy",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f985868b-bf14-45df-91ca-2daf8236eb7b",
+    "data": [
+      {
+        "text": "start inspecting the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "french fries",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14544c8b-917a-4a6a-b22f-7c1c5eed795f",
+    "data": [
+      {
+        "text": "start analysis on the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "potatoes",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7809dd42-6247-4787-8466-9d786b1f22de",
+    "data": [
+      {
+        "text": "start examining the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "flies in a basket",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce2dd7f3-96fa-4874-898d-5be0b874f929",
+    "data": [
+      {
+        "text": "start analyzing the ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "bank of america",
+        "alias": "stream-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

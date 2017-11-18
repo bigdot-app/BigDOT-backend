@@ -1,0 +1,58 @@
+{
+  "id": "f8152462-b69f-4677-a646-ecc2bc660ef6",
+  "name": "StartLoggingData",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "start_logging_data",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "53bd32bf-8955-4823-a327-dcd3cda89b97",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "dl-name",
+          "value": "$dl-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the name of the database or data stream?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "034f3399-cb89-48b5-b909-14b7eca58819",
+          "required": true,
+          "dataType": "@DataLoggingType",
+          "name": "dl-type",
+          "value": "$dl-type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want to log the data to a database or a data stream?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It looks like the web server is down!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510256848922,
+  "fallbackIntent": false,
+  "events": []
+}

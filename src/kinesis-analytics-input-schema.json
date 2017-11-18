@@ -1,0 +1,83 @@
+{
+  "RecordFormat": {
+    "RecordFormatType": "JSON",
+    "MappingParameters": {
+      "JSONMappingParameters": {
+        "RecordRowPath": "$"
+      }
+    }
+  },
+  "RecordEncoding": "UTF-8",
+  "RecordColumns": [
+    {
+      "Name": "temperature",
+      "Mapping": "$.temperature",
+      "SqlType": "DECIMAL(4,2)"
+    },
+    {
+      "Name": "humidity",
+      "Mapping": "$.humidity",
+      "SqlType": "DECIMAL(5,2)"
+    },
+    {
+      "Name": "pressure",
+      "Mapping": "$.pressure",
+      "SqlType": "DECIMAL(6,2)"
+    },
+    {
+      "Name": "proximity",
+      "Mapping": "$.proximity",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "acc_x",
+      "Mapping": "$.acc_x",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "acc_y",
+      "Mapping": "$.acc_y",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "acc_z",
+      "Mapping": "$.acc_z",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "gyr_x",
+      "Mapping": "$.gyr_x",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "gyr_y",
+      "Mapping": "$.gyr_y",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "gyr_z",
+      "Mapping": "$.gyr_z",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "mag_x",
+      "Mapping": "$.mag_x",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "mag_y",
+      "Mapping": "$.mag_y",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "mag_z",
+      "Mapping": "$.mag_z",
+      "SqlType": "INTEGER"
+    },
+    {
+      "Name": "epoch",
+      "Mapping": "$.timestamp",
+      "SqlType": "INTEGER"
+    }
+  ]
+}

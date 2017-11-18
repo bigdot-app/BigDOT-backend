@@ -1,0 +1,39 @@
+[
+  {
+    "value": "gyroscope",
+    "synonyms": [
+      "gyroscope"
+    ]
+  },
+  {
+    "value": "temperature",
+    "synonyms": [
+      "temperature"
+    ]
+  },
+  {
+    "value": "accelerometer",
+    "synonyms": [
+      "accelerometer"
+    ]
+  },
+  {
+    "value": "magnetometer",
+    "synonyms": [
+      "magnetometer"
+    ]
+  },
+  {
+    "value": "humidity",
+    "synonyms": [
+      "humidity"
+    ]
+  },
+  {
+    "value": "barometer",
+    "synonyms": [
+      "barometer",
+      "pressure"
+    ]
+  }
+]

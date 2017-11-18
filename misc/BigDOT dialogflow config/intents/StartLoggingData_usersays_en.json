@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1174e0a9-b71e-4876-8b2e-0d6e4b8b2005",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "logging",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " sensor data to a ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " instance called ",
+        "userDefined": false
+      },
+      {
+        "text": "microsoft bottle",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32045fca-058d-4a06-ab6e-d2f422b8c53d",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "logging",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " data to a new ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard cat",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd26ed7f-1efb-4e68-b853-30a407801910",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "recording",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " data to a ",
+        "userDefined": false
+      },
+      {
+        "text": "data stream",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "frogs and mice",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5c1a0d2-8a3b-43d0-91af-ea59d61f51b5",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "logging",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " data to a ",
+        "userDefined": false
+      },
+      {
+        "text": "database",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " instance called ",
+        "userDefined": false
+      },
+      {
+        "text": "rick and morty",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a0c1c49-b6a9-44a4-8f66-a89835147183",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "recording",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " data to a new ",
+        "userDefined": false
+      },
+      {
+        "text": "database",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " titled ",
+        "userDefined": false
+      },
+      {
+        "text": "nanobot",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ffb7fee-27ea-4d0e-8215-a73c31325bfd",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "logging",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " data to a ",
+        "userDefined": false
+      },
+      {
+        "text": "database",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "bucket test",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "913f1fd7-aac3-499b-b51c-226a2de6e26c",
+    "data": [
+      {
+        "text": "start ",
+        "userDefined": false
+      },
+      {
+        "text": "logging",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " sensor data to a ",
+        "userDefined": false
+      },
+      {
+        "text": "database",
+        "alias": "dl-type",
+        "meta": "@DataLoggingType",
+        "userDefined": true
+      },
+      {
+        "text": " called ",
+        "userDefined": false
+      },
+      {
+        "text": "cats or dogs",
+        "alias": "dl-name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
